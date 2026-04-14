@@ -23,5 +23,5 @@ yarn-error.log*
 .idea/
 .vscode/
 
-# optional: lock files (NORMALERWEISE behalten!)
-# package-lock.json
+# Netlify
+.netlify
